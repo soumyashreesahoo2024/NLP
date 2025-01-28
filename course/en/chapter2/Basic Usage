@@ -1,0 +1,7 @@
+Basic building blocks of a Transformer model.
+Tokenization pipeline.
+How to use a Transformer model in practice.
+How to leverage a tokenizer to convert text to tensors that are understandable by the model.
+Set up a tokenizer and a model together to get from text to predictions.
+Limitations of input IDs, and attention masks.
+Played around with versatile and configurable tokenizer methods.
